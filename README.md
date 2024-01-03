@@ -1,7 +1,7 @@
 <h3 align="center">
 	<img src="https://raw.githubusercontent.com/catppuccin/catppuccin/main/assets/logos/exports/1544x1544_circle.png" width="100" alt="Logo"/><br/>
 	<img src="https://raw.githubusercontent.com/catppuccin/catppuccin/main/assets/misc/transparent.png" height="30" width="0px"/>
-	Catppuccin for <a href="https://github.com/catppuccin/template">App</a>
+	Catppuccin for <a href="https://getsharex.com/">ShareX Theme</a>
 	<img src="https://raw.githubusercontent.com/catppuccin/catppuccin/main/assets/misc/transparent.png" height="30" width="0px"/>
 </h3>
 
@@ -12,44 +12,48 @@
 </p>
 
 <p align="center">
-	<img src="https://raw.githubusercontent.com/catppuccin/catppuccin/main/assets/previews/preview.webp"/>
+	<img src="https://raw.githubusercontent.com/kingofcube/uhhhhh/main/assets/ShareX_8Ivzp3y2vO.webp?token=GHSAT0AAAAAACLJKYTIPZPF64CXVXTGDTOCZMUYOBA"/>
 </p>
 
 ## Previews
 
 <details>
 <summary>🌻 Latte</summary>
-<img src="https://raw.githubusercontent.com/catppuccin/catppuccin/main/assets/previews/latte.webp"/>
+Not yet...
 </details>
 <details>
 <summary>🪴 Frappé</summary>
-<img src="https://raw.githubusercontent.com/catppuccin/catppuccin/main/assets/previews/frappe.webp"/>
+Not yet...
 </details>
 <details>
 <summary>🌺 Macchiato</summary>
-<img src="https://raw.githubusercontent.com/catppuccin/catppuccin/main/assets/previews/macchiato.webp"/>
+<img src="https://raw.githubusercontent.com/kingofcube/uhhhhh/main/assets/ShareX_8Ivzp3y2vO.webp?token=GHSAT0AAAAAACLJKYTIPZPF64CXVXTGDTOCZMUYOBA"/>
 </details>
 <details>
 <summary>🌿 Mocha</summary>
-<img src="https://raw.githubusercontent.com/catppuccin/catppuccin/main/assets/previews/mocha.webp"/>
+Not yet...
 </details>
 
 ## Usage
 
-1. Clone this repository locally
-2. Open the app's settings
-3. Select `import theme` and browse to where you cloned Catppuccin
-4. Select it
+1. Clone this repository locally (Or download the source code)
+2. Go to ShareX
+3. Select "Application Settings"
+4. Select "Theme"
+5. Select "Import"
+6. Select "From File"
+7. Select the theme file
+8. Enjoy the theme!
 
 <!-- this section is optional -->
 ## 🙋 FAQ
 
--	Q: **_"Where can I find the doc?"_**\
-	A: Run `:help theme`
+-	Q: **_"Theme doesnt work!"_**\
+	A: Make sure your on the latest version on ShareX
 
 ## 💝 Thanks to
 
-- [Human](https://github.com/catppuccin)
+- [King_Cube (me@!1!!11! :D)](https://github.com/kingofcube)
 
 &nbsp;
 
